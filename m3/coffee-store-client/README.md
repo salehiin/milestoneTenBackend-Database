@@ -1,11 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # 54.2 - very important
 # 54.3 - 12:50 When Node Shouldn't use 
@@ -46,6 +38,16 @@ Currently, two official plugins are available:
 # 56.7 -  - data delete, - data update
 # 56.8 - how to show data in a component - destructuring, data update
 # 56.9 - auto update data after delete, API naming convention - important conceptual 
+
+# 56_5.1 - git clone related issue - how to use existing project, firebase setup
+# 56_5.2 - AuthProvider, AuthContext, createUser - sign up
+# 56_5.3 - CRUD, important concep, new user save in database
+# 56_5.4 - READ - users data display at client side
+# 56_5.5 - DELETE - delete user from database, _id: new ObjectId(id)
+# 56_5.6 - log in, get meta data, UPDATE - update/add meta data to server
+# 56_5.7 - deploy - firebase/vercel   
+# 56_5.8 - deploy - vercel - first time, update existing project to github   
+# 56_5.9 - HW - Users Management CRUD   
 
 # "the best thing of your life is in the other side of the pain"
 # git commit -m "v54.6 backend & frontend setup ready with bothend data show" 
