@@ -11,6 +11,11 @@
 # NoSQL - No declarative Query Language
 # Collection(all), Document(each one) - {a: 1, b: 2, c: 3}, {a: 1, b: 2, c: 3}, {a: 1, b: 2, c: 3}
 
+# "the best thing of your life is in the other side of the pain"
+# git commit -m "v54.6 backend & frontend setup ready with bothend data show" 
+# git commit -m "v54.7-8 form ready, using form data send from client side to server side dynamically with recap" 
+# git commit -m "v54.9 module summary" 
+
 # 54.8 - 03:30 - important concept
 
 # 55.1 - MongoDB intro - pay0cent/Z13O3a3txOZ6tQc1, crud project setup - &conceptual
@@ -49,10 +54,11 @@
 # 56_5.8 - deploy - vercel - first time, update existing project to github   
 # 56_5.9 - HW - Users Management CRUD   
 
-# "the best thing of your life is in the other side of the pain"
-# git commit -m "v54.6 backend & frontend setup ready with bothend data show" 
-# git commit -m "v54.7-8 form ready, using form data send from client side to server side dynamically with recap" 
-# git commit -m "v54.9 module summary" 
+# 57_5.1 - axios - first video - very important ❤︎ 🌼 ✔︎
+# 57_5.2 - tanstack query - first video - very important ❤︎ 🌼 ✔︎
+# 57_5.3 - use tanstack query, check browser's network tab for error, optional chaining - important concep, spinner, different usecase of tanstack query
+
+
 
 
 
